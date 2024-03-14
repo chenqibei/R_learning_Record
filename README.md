@@ -3,9 +3,9 @@ a personal record of the R learning
 ### 这里放一些我觉得对我帮助很大的资料，随着后续学习进行不断补充~
 ## 学习心路
 ### 视频教程
-b站基因学苑的R语言入门与数据分析(用来学习基础r操作，配合R语言实战学习)https://www.bilibili.com/video/BV19x411X7C6/?spm_id_from=333.337.search-card.all.click&vd_source=fc8961229d2dbc8c4023dddc25d8b3b8
+1. b站基因学苑的R语言入门与数据分析(用来学习基础r操作，配合R语言实战学习)https://www.bilibili.com/video/BV19x411X7C6/?spm_id_from=333.337.search-card.all.click&vd_source=fc8961229d2dbc8c4023dddc25d8b3b8
 
-Introduction to R Programming and Tidyverse (coursera上的课程，配合R for Data Science学习）
+2. Introduction to R Programming and Tidyverse (coursera上的课程，配合R for Data Science学习）
 
 ### 教程帖
 知乎张一柯的生信学习框架(有选择看，主要用来了解生信的大框架)https://zhuanlan.zhihu.com/p/265349226
