@@ -11,7 +11,7 @@ a personal record of the R learning
 知乎张一柯的生信学习框架(有选择看，主要用来了解生信的大框架)https://zhuanlan.zhihu.com/p/265349226
 
 ## 基础R部分
-1. R语言实战(第二版)(用来熟悉t的基础操作)
+1. R语言实战(第二版)(用来熟悉r的基础操作)
 2. R语言编程艺术
 3. R语言教程 李东风
 
