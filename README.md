@@ -4,6 +4,7 @@ a personal record of the R learning
 ## 学习心路
 ### 视频教程
 b站基因学苑的R语言入门与数据分析(用来学习基础r操作，配合R语言实战学习)https://www.bilibili.com/video/BV19x411X7C6/?spm_id_from=333.337.search-card.all.click&vd_source=fc8961229d2dbc8c4023dddc25d8b3b8
+
 Introduction to R Programming and Tidyverse (coursera上的课程，配合R for Data Science学习）
 
 ### 教程帖
